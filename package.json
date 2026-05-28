@@ -1,0 +1,9 @@
+{
+  "name": "cicd-demo",
+  "version": "1.0.0",
+  "description": "Simple CI/CD Demo App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
